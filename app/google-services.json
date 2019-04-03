@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303609195180",
+    "firebase_url": "https://kchat-483ef.firebaseio.com",
+    "project_id": "kchat-483ef",
+    "storage_bucket": "kchat-483ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303609195180:android:3e2609a04ff62b05",
+        "android_client_info": {
+          "package_name": "lk.ac.kln.kchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303609195180-mf0cokstvmebmtqii6oosrn4p9vb9gtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.ac.kln.kchat",
+            "certificate_hash": "5eb4eaad72a8c730ffaeb033d508975d0dc4f8c1"
+          }
+        },
+        {
+          "client_id": "303609195180-j2ieetcfemprkvotedcgeq38c8go3eit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IcGb16Ss-UNGf5PUJg8uI71De5hHJ5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303609195180-j2ieetcfemprkvotedcgeq38c8go3eit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
